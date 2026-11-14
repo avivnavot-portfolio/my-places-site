@@ -1,4 +1,4 @@
-:HL["/my-places-site/_next/static/chunks/0h8rvzfg71dw7.css","style"]
+:HL["/my-places-site/_next/static/chunks/30-iljyw5gbpd.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"Qtz3O4N85ddFfcMA-B4mR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"z79cbIV4P711yMp-HvkVo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
