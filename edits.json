@@ -63,6 +63,24 @@
    ],
    "addedAt": "2026-11-15T11:05:34.117Z",
    "updatedAt": "2026-11-15T11:05:34.117Z"
+  },
+  "added:z8y7sf": {
+   "id": "added:z8y7sf",
+   "name": "MiSA Matcha",
+   "originalUrl": "https://maps.app.goo.gl/staG6DaAhd76ZBWd7",
+   "lat": 48.2018594,
+   "lng": 16.3485376,
+   "address": "Westbahnstraße 4, Vienna, Austria",
+   "city": "Vienna",
+   "countryCode": "AT",
+   "googleCid": null,
+   "ftid": null,
+   "categories": [
+    "cafes",
+    "shopping"
+   ],
+   "addedAt": "2026-11-15T11:07:18.850Z",
+   "updatedAt": "2026-11-15T11:07:18.850Z"
   }
  },
  "deleted": {}
