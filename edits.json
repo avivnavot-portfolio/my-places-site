@@ -45,5 +45,25 @@
    ],
    "updatedAt": "2026-11-08T21:37:35.728Z"
   }
- }
+ },
+ "added": {
+  "added:1sgh3bs": {
+   "id": "added:1sgh3bs",
+   "name": "SiL vienna",
+   "originalUrl": "https://maps.app.goo.gl/kywxMhdqom4XsTGT9",
+   "lat": 48.2031745,
+   "lng": 16.3628708,
+   "address": "Babenbergerstraße 5, Vienna, Austria",
+   "city": "Vienna",
+   "countryCode": "AT",
+   "googleCid": null,
+   "ftid": null,
+   "categories": [
+    "cafes"
+   ],
+   "addedAt": "2026-11-15T11:05:34.117Z",
+   "updatedAt": "2026-11-15T11:05:34.117Z"
+  }
+ },
+ "deleted": {}
 }
